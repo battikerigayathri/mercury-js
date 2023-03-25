@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdocs=self.webpackChunkdocs||[]).push([[7596],{4911:s=>{s.exports=JSON.parse('{"label":"facebook","permalink":"/mercury-js/blog/tags/facebook","allTagsPath":"/mercury-js/blog/tags","count":1}')}}]);
